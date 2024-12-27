@@ -46,5 +46,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=MyAhez&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MyAhez&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAhez&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MyAhez&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
