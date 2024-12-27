@@ -49,3 +49,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-ahezi11.vercel.app/api/top-langs/?username=MyAhez&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=MyAhez&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MyAhez&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MyAhez&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
