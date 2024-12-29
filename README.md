@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=myahezz.myahezz" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MyAhez.MyAhez" />
 <div align="center"> 
   <a herf="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wildan+Septian!;" />
@@ -40,9 +40,9 @@ I am studying Deep Learning and Artificial Intelligence (AI) to develop intellig
 <h2 align="center"> 📊 GitHub Stats </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=myahezz&show_icons=true&theme=react"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=myahezz&theme=react&hide_border=false" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myahezz&layout=compact&theme=react"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MyAhez&show_icons=true&theme=react"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MyAhez&theme=react&hide_border=false" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyAhez&layout=compact&theme=react"/>
 </div>
 <br/>
 <hr/>
